@@ -6,7 +6,7 @@ public class sss {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generatddddddddddddddded method stub
-		/// mod richa3	
+		/// mod richa4
 
 	}
 
